@@ -9,7 +9,7 @@ footer; Per image shown, this element is still on html however is hiddent in the
 Corrected search engine to take the person to their destination.
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-  Images
+  Images used below;
  
 ![brand-awareness](https://user-images.githubusercontent.com/106676739/173859966-c8cc1bd7-b606-499b-b5dc-f1d6a2b17448.png)
 ![cost-management](https://user-images.githubusercontent.com/106676739/173859984-b6845bf8-0f5d-4f45-bd6c-7c3d23c279ec.png)
