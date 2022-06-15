@@ -10,10 +10,9 @@ Corrected search engine to take the person to their destination.
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
   Images
-  C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\brand-awareness.png
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\cost-management.png
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\digital-marketing-meeting.jpg
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\lead-generation.png
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\online-reputation-management.jpg
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\search-engine-optimization.jpg
-C:\Users\joelr\Desktop\Repositories\Horiseon-Adjusted\assets\images\social-media-marketing.jpg
+ 
+![brand-awareness](https://user-images.githubusercontent.com/106676739/173859966-c8cc1bd7-b606-499b-b5dc-f1d6a2b17448.png)
+![cost-management](https://user-images.githubusercontent.com/106676739/173859984-b6845bf8-0f5d-4f45-bd6c-7c3d23c279ec.png)
+![lead-generation](https://user-images.githubusercontent.com/106676739/173860022-c1dbbeed-b0a6-49ea-a29c-6037e5f63d7b.png)
+![online-reputation-management](https://user-images.githubusercontent.com/106676739/173860043-1472a5df-88f7-4f14-b3b7-ce21a24db3e5.jpg)
+
