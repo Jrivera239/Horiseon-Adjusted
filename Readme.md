@@ -16,3 +16,4 @@ Corrected search engine to take the person to their destination.
 ![lead-generation](https://user-images.githubusercontent.com/106676739/173860022-c1dbbeed-b0a6-49ea-a29c-6037e5f63d7b.png)
 ![online-reputation-management](https://user-images.githubusercontent.com/106676739/173860043-1472a5df-88f7-4f14-b3b7-ce21a24db3e5.jpg)
 
+  Note: I was no being able to upload the missing images used on this html to the readme.md file. Could had been user error.
