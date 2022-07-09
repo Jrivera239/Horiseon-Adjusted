@@ -15,5 +15,16 @@ Corrected search engine to take the person to their destination.
 ![cost-management](https://user-images.githubusercontent.com/106676739/173859984-b6845bf8-0f5d-4f45-bd6c-7c3d23c279ec.png)
 ![lead-generation](https://user-images.githubusercontent.com/106676739/173860022-c1dbbeed-b0a6-49ea-a29c-6037e5f63d7b.png)
 ![online-reputation-management](https://user-images.githubusercontent.com/106676739/173860043-1472a5df-88f7-4f14-b3b7-ce21a24db3e5.jpg)
+   Note: I was no being able to upload the missing images used on this html to the readme.md file. Could had been user error.
+  
+  
+  <Screenshot>
+    ![screenshot](https://user-images.githubusercontent.com/106676739/174214575-41769072-6402-479a-b28a-d8768c29c714.png)
+    
+    
+    
+    
+    
+    
 
-  Note: I was no being able to upload the missing images used on this html to the readme.md file. Could had been user error.
+ 
