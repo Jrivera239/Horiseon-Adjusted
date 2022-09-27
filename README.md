@@ -1,5 +1,7 @@
 README.md
-
+# Horiseon Refactor
+ Refactor of CSS and HTML Horiseon page for accessibility and SEO purposes.
+ 
 Elements adjustment were necesarry to correct the following:
 Tittle; Tittle was adjusted to the proper page name, Horiseon.
 Header; Needed to be added to keep elements on the correct location of the webpage.
